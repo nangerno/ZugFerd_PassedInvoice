@@ -1,6 +1,6 @@
-# ZugFeRD v2.2 Invoice Validation
+# Google App Script for ZugFeRD v2.2 Invoice Validation
 
-This project supports the **ZugFeRD v2.2** standard for electronic invoices. **ZugFeRD** (Zentraler User Guide für den elektronischen Rechnungsdatenaustausch) is a standard for the exchange of electronic invoices in Germany, and **ZugFeRD v2.2** is one of its latest versions.
+This script is to help pass the **ZugFeRD v2.2** standard for electronic invoices. **ZugFeRD** (Zentraler User Guide für den elektronischen Rechnungsdatenaustausch)
 
 ## Validator
 
